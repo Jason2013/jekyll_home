@@ -6,4 +6,4 @@ My day to day work includes shifts as an Information Systems Analyst (Team Lead)
 
 [![Linkedin](https://raw.githubusercontent.com/nickgerace/homepage/master/linkedin.png)](https://linkedin.com/in/nickgerace)
 [![Github](https://raw.githubusercontent.com/nickgerace/homepage/master/github.png)](https://github.com/nickgerace)
-[![WakeHacks](https://raw.githubusercontent.com/nickgerace/homepage/master/wakehacks.png)](https://acm.cs.wfu.edu)
+[![WakeHacks](https://raw.githubusercontent.com/nickgerace/homepage/master/wakehackslogo.png)](https://acm.cs.wfu.edu)
