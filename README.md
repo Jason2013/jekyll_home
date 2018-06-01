@@ -4,6 +4,6 @@ Hello! Currently, I am a rising-senior and computer science major at Wake Forest
 
 My day to day work includes shifts as an Information Systems Analyst (Team Lead) specializing in macOS/Unix as well as the Chapter Trustee for the current roster of ACM officers. As the previous President, I founded our university's first ever hackathon and curated talks and entertaining events for nearly 200 students. For summer 2018, I will be interning at NetApp on the Cyber Security team. Please feel free to contact me at any time!
 
-[![Linkedin](linkedin.png)](https://linkedin.com/in/nickgerace)
-[![Github](github.png)](https://github.com/nickgerace)
-[![WakeHacks](wakehackslogo.png)](https://acm.cs.wfu.edu)
+[<img src="linkedin.png" alt="linkedin" style="width: 10px;"/>](https://linkedin.com/in/nickgerace)
+[<img src="github.png" alt="github" style="width: 10px;"/>](https://github.com/nickgerace)
+[<img src="wakehackslogo.png" alt="wakehackslogo" style="width: 10px;"/>](https://acm.cs.wfu.edu)
