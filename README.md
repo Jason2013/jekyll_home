@@ -1,8 +1,10 @@
 # Nick Gerace
 
-Hello! I am a rising-senior and computer science major at Wake Forest University who specializes in Unix-based operating systems and experiments in game design, cyber security, and container software. 
+Hello! I am a rising-senior and computer science major at Wake Forest University who loves and specializes in security. 
 
-My day to day non-academic work includes shifts as an Information Systems Analyst (Team Lead) specializing in macOS/Unix as well as the Chapter Trustee for the current roster of ACM officers. As the previous President, I founded our university's first ever hackathon and curated talks and entertaining events for nearly 200 students. For summer 2018, I am interning at NetApp on the Cyber Security team. Please feel free to contact me at any time!
+My day to day non-academic work includes taking shifts as an Information Systems Analyst (Team Lead) as well as guiding the current roster of ACM officers as Chapter Trustee. As Team Lead, I lead student employees and work with full-time staff as the point of contact for macOS/Unix solutions. As the previous ACM President, I founded our university's first ever hackathon and curated talks and entertaining events for nearly 200 students. 
+
+For summer 2018, I am interning at NetApp on the Cyber Security team. Please feel free to contact me at any time!
 
 [<img src="linkedin.png" alt="linkedin" style="width: 70px;"/>](https://linkedin.com/in/nickgerace)
 [<img src="github.png" alt="github" style="width: 70px;"/>](https://github.com/nickgerace)
