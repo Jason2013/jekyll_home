@@ -12,4 +12,5 @@ For summer 2018, I am interning at NetApp on the Cyber Security team. Please fee
 [<img src="wakehackslogo.png" alt="wakehackslogo" style="height: 70px;"/>](https://acm.cs.wfu.edu)
 
 29 June 2018 - [Ultiscan](https://github.com/nickgerace/ultiscan)
+
 16 May 2018 - ["AWS Apache" Load Balancer](https://github.com/nickgerace/awsapache-loadbalancer)
