@@ -13,6 +13,4 @@ For summer 2018, I am interning at NetApp on the Cyber Security team. Please fee
 
 #### Released Projects
 
-##### [Ultiscan](https://github.com/nickgerace/ultiscan)
-
-##### ["AWS Apache" Load Balancer](https://github.com/nickgerace/awsapache-loadbalancer)
+##### [Ultiscan](https://github.com/nickgerace/ultiscan) | ["AWS Apache" Load Balancer](https://github.com/nickgerace/awsapache-loadbalancer)
