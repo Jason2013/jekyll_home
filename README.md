@@ -5,7 +5,7 @@
 &nbsp;
 [<img src="home-wakehackslogo.png" alt="wakehackslogo" style="height: 70px;"/>](https://acm.cs.wfu.edu)
 &nbsp;
-[<img src="home-twitter.png" alt="twitter" style="height: 70px;"/>](https://twitter.com/nickagerace)
+[<img src="home-twitter.png" alt="twitter" style="width: 70px;"/>](https://twitter.com/nickagerace)
 
 Hello! I am Nick, a senior and computer science major at Wake Forest University who loves and specializes in security. 
 
@@ -15,4 +15,4 @@ Outside of work, I am the creator and developer of "BlueWarden", a single consol
 
 In summer 2018, I interned on the Enterprise Information Security team at NetApp. In fall 2018, I am interning while at school under the new Security Operations Center at NetApp. Please feel free to contact me at any time!
 
-[<img src="home-bluewardenlogo.png" alt="bluewardenlogo"/>](https://github.com/nickgerace/bluewarden)
+[<img src="home-bluewardenlogo.png" alt="bluewardenlogo" style="width: 70px;"/>](https://github.com/nickgerace/bluewarden)
