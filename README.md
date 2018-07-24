@@ -12,4 +12,5 @@ In summer 2018, I interned on the Enterprise Information Security team at NetApp
 [<img src="home-github.png" alt="github" style="width: 70px;"/>](https://github.com/nickgerace)
 &nbsp;
 [<img src="home-wakehackslogo.png" alt="wakehackslogo" style="height: 70px;"/>](https://acm.cs.wfu.edu)
+&nbsp;
 [<img src="home-twitter.png" alt="twitter" style="height: 70px;"/>](https://twitter.com/nickagerace)
