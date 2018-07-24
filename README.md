@@ -8,7 +8,8 @@ Outside of work, I am the creator and developer of "BlueWarden", a single consol
 
 In summer 2018, I interned on the Enterprise Information Security team at NetApp. In fall 2018, I am interning while at school under the new Security Operations Center at NetApp. Please feel free to contact me at any time!
 
-[<img src="linkedin.png" alt="linkedin" style="width: 70px;"/>](https://linkedin.com/in/nickgerace)
-[<img src="github.png" alt="github" style="width: 70px;"/>](https://github.com/nickgerace)
+[<img src="home-linkedin.png" alt="linkedin" style="width: 70px;"/>](https://linkedin.com/in/nickgerace)
+[<img src="home-github.png" alt="github" style="width: 70px;"/>](https://github.com/nickgerace)
 &nbsp;
-[<img src="wakehackslogo.png" alt="wakehackslogo" style="height: 70px;"/>](https://acm.cs.wfu.edu)
+[<img src="home-wakehackslogo.png" alt="wakehackslogo" style="height: 70px;"/>](https://acm.cs.wfu.edu)
+[<img src="home-twitter.png" alt="twitter" style="height: 70px;"/>](https://twitter.com/nickagerace)
