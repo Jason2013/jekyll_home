@@ -2,9 +2,6 @@
 
 [<img src="home-linkedin.png" alt="linkedin" style="width: 70px;"/>](https://linkedin.com/in/nickgerace)
 [<img src="home-github.png" alt="github" style="width: 70px;"/>](https://github.com/nickgerace)
-&nbsp;
-[<img src="home-wakehackslogo.png" alt="wakehackslogo" style="height: 70px;"/>](https://acm.cs.wfu.edu)
-&nbsp;
 [<img src="home-twitter.png" alt="twitter" style="width: 70px;"/>](https://twitter.com/nickagerace)
 
 Hello! I am Nick, a senior and computer science major at Wake Forest University who loves and specializes in security. 
