@@ -15,4 +15,4 @@ Outside of work, I am the creator and developer of "BlueWarden", a single consol
 
 In summer 2018, I interned on the Enterprise Information Security team at NetApp. In fall 2018, I am interning while at school under the new Security Operations Center at NetApp. Please feel free to contact me at any time!
 
-[<img src="https://raw.githubusercontent.com/nickgerace/bluewarden/master/media/bluewardenlogo.png" alt="bluewardenlogo"/>](https://github.com/nickgerace/bluewarden)
+[<img src="home-bluewardenlogo.png" alt="bluewardenlogo"/>](https://github.com/nickgerace/bluewarden)
