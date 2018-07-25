@@ -16,7 +16,5 @@ In summer 2018, I interned on the Enterprise Information Security team at NetApp
 
 ### Active Projects
 
-[<img src="proj-bluewardenlogo.png" alt="bluewardenlogo" style="height: 100px;"/>](https://github.com/nickgerace/bluewarden)
-&nbsp;
-[<img src="proj-wakehackslogo.png" alt="wakehackslogo" style="height: 100px;"/>](https://acm.cs.wfu.edu)
-&nbsp;
+[<img src="proj-bluewardenlogo.png" alt="bluewardenlogo" style="width: 100px;"/>](https://github.com/nickgerace/bluewarden)
+[<img src="proj-wakehackslogo.png" alt="wakehackslogo" style="width: 100px;"/>](https://acm.cs.wfu.edu)
