@@ -6,7 +6,7 @@
 
 Hello! I am Nick, a senior and computer science major at Wake Forest University who loves and specializes in security. 
 
-My day to day non-academic work includes guiding the current roster of ACM officers as Chapter Trustee as well as taking shifts as an Information Systems Analyst (Team Lead). As the previous ACM President, I founded our university's first ever hackathon and curated talks and entertaining events for nearly 200 students. As Team Lead, I lead student employees and work with full-time staff as the point of contact for macOS/Unix solutions.
+My day to day non-academic work includes guiding the current roster of ACM officers as Chapter Trustee as well as taking shifts as an Information Systems Analyst (Team Lead). As the previous ACM President, I founded our university's first ever hackathon and curated talks and entertaining events for nearly 200 students. As Team Lead, I lead student employees and work with full-time staff as the point of contact for macOS and *nix solutions.
 
 Outside of work, I am the creator and developer of "BlueWarden", a single console for defensive security tools. You can find its repository among others on my website or GitHub.
 
