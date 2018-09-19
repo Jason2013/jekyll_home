@@ -4,7 +4,7 @@
 [<img src="home-github.png" alt="github" style="width: 70px;"/>](https://github.com/nickgerace)
 [<img src="home-twitter.png" alt="twitter" style="width: 70px;"/>](https://twitter.com/nickagerace)
 
-Hello! I am Nick, a senior and computer science major at Wake Forest University who loves and specializes in security and development. 
+Hello! I am Nick, a senior and computer science major at Wake Forest University who loves and specializes in application security and software development. 
 
 My daily, non-academic, work includes guiding the current roster of ACM officers as Chapter Trustee as well as balancing two security jobs. As the previous ACM President, I founded our university's 
 [first ever hackathon](https://acm.cs.wfu.edu), "WakeHacks 2018" and curated talks and entertaining events for nearly 200 students. 
