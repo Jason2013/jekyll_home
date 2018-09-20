@@ -1,3 +1,5 @@
+# This file is purely a text file for testing puposes.
+
 analitics-service.com
 analytics.blue
 apps.coinminex.com
