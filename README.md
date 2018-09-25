@@ -12,3 +12,4 @@ Providing technical creations and business solutions through my passions for sof
 ##### [Amazon Apache Load Balancer](https://github.com/nickgerace/AmazonApacheLoadBalancer) - load balancer for Apache web servers running on AWS EC2 instances
 ##### [CryptoRoadJack](https://github.com/nickgerace/BlueWarden/blob/master/tools/cryptoroadjack.py) - parser for potential cryptojacking in HTML code
 ##### [Ultiscan](https://github.com/nickgerace/BlueWarden/blob/master/tools/ultiscan.py) - combination of several popular IP scanners
+##### [LinuxSetups](https://github.com/nickgerace/LinuxSetups) - collection of setup scripts from Linux distros
