@@ -9,7 +9,7 @@ Providing technical creations and business solutions through my passions for sof
 
 ##### [BlueWarden](https://github.com/nickgerace/BlueWarden) - combination of multiple defensive tools in one Python console
 ##### [WakeHacks](https://acm.cs.wfu.edu) - annual hackathon series at Wake Forest University
-##### [Amazon Apache Load Balancer](https://github.com/nickgerace/AmazonApacheLoadBalancer) - load balancer for Apache web servers running on AWS EC2 instances
+##### [AmazonApacheLoadBalancer](https://github.com/nickgerace/AmazonApacheLoadBalancer) - load balancer for Apache web servers running on AWS EC2 instances
 ##### [AddressAutomation](https://github.com/nickgerace/AddressAutomation) - automation tool for finding IP addresses and URLs in plaintext files
 ##### [CryptoRoadJack](https://github.com/nickgerace/BlueWarden/blob/master/tools/cryptoroadjack.py) - parser for potential cryptojacking in HTML code
 ##### [Ultiscan](https://github.com/nickgerace/BlueWarden/blob/master/tools/ultiscan.py) - combination of several popular IP scanners
