@@ -14,3 +14,4 @@ Providing technical creations and business solutions through my passions for sof
 ##### [CryptoRoadJack](https://github.com/nickgerace/BlueWarden/blob/master/tools/cryptoroadjack.py) - parser for potential cryptojacking in HTML code
 ##### [Ultiscan](https://github.com/nickgerace/BlueWarden/blob/master/tools/ultiscan.py) - combination of several popular IP scanners
 ##### [LinuxSetups](https://github.com/nickgerace/LinuxSetups) - collection of setup scripts for Linux distros and macOS
+##### [Medium Blog](https://medium.com/@nickagerace) - posts coming soon, beginning with update on the BlueWarden project
