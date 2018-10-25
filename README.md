@@ -9,6 +9,7 @@ Providing technical creations and business solutions through my passions for sof
 
 ##### Blog Posts
 - [17 Oct 2018](https://medium.com/@nickgerace/the-status-and-fun-of-bluewarden-ef7fbfcc09f1) - The Status and Fun of BlueWarden
+- In Progress - Introducing BlueWarden 1.0
 
 ##### Projects
 - [BlueWarden](https://github.com/nickgerace/BlueWarden) - combination of multiple defensive tools in one Python console
@@ -18,3 +19,9 @@ Providing technical creations and business solutions through my passions for sof
 - [DeterminantDomination](https://github.com/nickgerace/DeterminantDomination) - this script finds the determinant for any square matrix
 - [AmazonApacheLoadBalancer](https://github.com/nickgerace/AmazonApacheLoadBalancer) - load balancer for Apache web servers running on AWS EC2 instances
 - [LinuxSetups](https://github.com/nickgerace/LinuxSetups) - collection of setup scripts for Linux distros and macOS
+
+<!---
+**Projects** | **Blog Posts**
+--- | ---
+[BlueWarden](https://github.com/nickgerace/BlueWarden) - combination of multiple defensive tools in one Python console | [17 Oct 2018](https://medium.com/@nickgerace/the-status-and-fun-of-bluewarden-ef7fbfcc09f1) - The Status and Fun of BlueWarden
+-->
