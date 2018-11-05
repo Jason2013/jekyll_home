@@ -12,12 +12,12 @@ Providing technical creations and business solutions through my passions for sof
 - In Progress - Introducing BlueWarden 1.0
 
 ##### Projects
-- [BlueWarden](https://github.com/nickgerace/BlueWarden) - combination of multiple defensive tools in one Python console
-- [WakeHacks](https://acm.cs.wfu.edu) - annual hackathon series at Wake Forest University
 - [CryptoRoadJack](https://github.com/nickgerace/CryptoRoadJack) - automation tool for parsing websties for potential cryptojacking
 - [AddressAutomation](https://github.com/nickgerace/AddressAutomation) - automation tool for finding IP addresses and URLs in plaintext files
-- [DeterminantDomination](https://github.com/nickgerace/DeterminantDomination) - this script finds the determinant for any square matrix
 - [AmazonApacheLoadBalancer](https://github.com/nickgerace/AmazonApacheLoadBalancer) - load balancer for Apache web servers running on AWS EC2 instances
+- [DeterminantDomination](https://github.com/nickgerace/DeterminantDomination) - this script finds the determinant for any square matrix
+- [BlueWarden](https://github.com/nickgerace/BlueWarden) - a simulated GUI console for operating headless Python tools
+- [WakeHacks](https://acm.cs.wfu.edu) - annual hackathon series at Wake Forest University
 - [LinuxSetups](https://github.com/nickgerace/LinuxSetups) - collection of setup scripts for Linux distros and macOS
 
 <!---
