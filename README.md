@@ -16,7 +16,7 @@ Providing technical creations and business solutions through my passions for sof
 - [AddressAutomation](https://github.com/nickgerace/AddressAutomation) - automation tool for finding IP addresses and URLs in plaintext files
 - [AmazonApacheLoadBalancer](https://github.com/nickgerace/AmazonApacheLoadBalancer) - load balancer for Apache web servers running on AWS EC2 instances
 - [DeterminantDomination](https://github.com/nickgerace/DeterminantDomination) - this script finds the determinant for any square matrix
-- [BlueWarden](https://github.com/nickgerace/BlueWarden) - a simulated GUI console for operating headless Python tools
+- [BlueWarden](https://github.com/nickgerace/BlueWarden) - a simulated console for operating headless Python tools
 - [WakeHacks](https://acm.cs.wfu.edu) - annual hackathon series at Wake Forest University
 - [LinuxSetups](https://github.com/nickgerace/LinuxSetups) - collection of setup scripts for Linux distros and macOS
 
