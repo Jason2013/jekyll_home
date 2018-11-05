@@ -8,8 +8,9 @@
 Providing technical creations and business solutions through my passions for software development, site reliability engineering, application security, and project management. Pursuing these passions by founding WakeHacks 2018 (inaugural hackathon) with a driven team, and creating an automation console, BlueWarden. Currently balancing two jobs while enjoying my last year at Wake Forest University! Actively searching for post-graudation opportunities after May 2019.
 
 ##### Blog Posts
+- [05 Nov 2018](https://medium.com/@nickgerace/introducing-bluewarden-1-0-9c0809aee586) - Introducing BlueWarden 1.0
 - [17 Oct 2018](https://medium.com/@nickgerace/the-status-and-fun-of-bluewarden-ef7fbfcc09f1) - The Status and Fun of BlueWarden
-- In Progress - Introducing BlueWarden 1.0
+- In Progress - Three Tools For The DevOps Workflow
 
 ##### Projects
 - [CryptoRoadJack](https://github.com/nickgerace/CryptoRoadJack) - automation tool for parsing websties for potential cryptojacking
