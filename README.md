@@ -2,6 +2,7 @@
 
 [<img src="home-github.png" alt="github" style="width: 70px;"/>](https://github.com/nickgerace)
 [<img src="home-linkedin.png" alt="linkedin" style="width: 70px;"/>](https://linkedin.com/in/nickgerace)
+&nbsp;
 [<img src="home-medium.png" alt="medium" style="width: 70px;"/>](https://medium.com/@nickgerace)
 
 Providing technical creations and business solutions through my passions for software development, automation, reliability engineering, application security, and project management. Pursuing these passions by founding Wake Forest University's annual hackathon series, WakeHacks, and by creating automation-focused Python projects, featured on my GitHub profile. Enjoying my last year at WFU before joining NetApp as a Software Automation Engineer in June 2019!
@@ -22,9 +23,3 @@ Providing technical creations and business solutions through my passions for sof
 - [BlueWarden](https://github.com/nickgerace/BlueWarden) - simulated console for operating headless Python tools
 - [WakeHacks](https://acm.cs.wfu.edu) - annual hackathon series at Wake Forest University
 - [LinuxSetups](https://github.com/nickgerace/LinuxSetups) - collection of setup scripts for Linux distros and macOS
-
-<!---
-**Projects** | **Blog Posts**
---- | ---
-[BlueWarden](https://github.com/nickgerace/BlueWarden) - combination of multiple defensive tools in one Python console | [17 Oct 2018](https://medium.com/@nickgerace/the-status-and-fun-of-bluewarden-ef7fbfcc09f1) - The Status and Fun of BlueWarden
--->
