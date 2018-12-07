@@ -9,7 +9,7 @@ Providing technical creations and business solutions through my passions for sof
 
 ##### Blog Posts
 - [12 Nov 2018](https://medium.com/@nickgerace/annualizing-wakehacks-b1fd8e8c99bf) - Annualizing WakeHacks
-- [05 Nov 2018](https://medium.com/@nickgerace/introducing-bluewarden-1-0-9c0809aee586) - Introducing BlueWarden 1.0
+- [05 Nov 2018](https://medium.com/@nickgerace/introducing-bluewarden-1-0-9c0809aee586) - Launching BlueWarden
 - [17 Oct 2018](https://medium.com/@nickgerace/the-status-and-fun-of-bluewarden-ef7fbfcc09f1) - The Status and Fun of BlueWarden
 - In Progress - Introducing PyDeacon
 - In Progress - Why You Should Intern at NetApp
