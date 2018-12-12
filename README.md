@@ -8,11 +8,11 @@
 Providing technical creations and business solutions through my passions for software development, automation, reliability engineering, application security, and project management. Pursuing these passions by founding Wake Forest University's annual hackathon series, WakeHacks, and by creating automation-focused Python projects, featured on my GitHub profile. Enjoying my last year at WFU before joining NetApp as a Software Automation Engineer in June 2019!
 
 ##### Blog Posts
+- [12 Dec 2018](https://medium.com/@nickgerace/how-i-became-a-netapp-intern-and-why-you-should-too-9639d0a8e265) - How I Became a NetApp Intern and Why You Should Too
 - [12 Nov 2018](https://medium.com/@nickgerace/annualizing-wakehacks-b1fd8e8c99bf) - Annualizing WakeHacks
 - [05 Nov 2018](https://medium.com/@nickgerace/introducing-bluewarden-1-0-9c0809aee586) - Launching BlueWarden
 - [17 Oct 2018](https://medium.com/@nickgerace/the-status-and-fun-of-bluewarden-ef7fbfcc09f1) - The Status and Fun of BlueWarden
 - In Progress - Introducing PyDeacon
-- In Progress - Why You Should Intern at NetApp
 - In Progress - Three Unusual Books for Computer Science Undergads
 - In Progress - Two Ideas for My DevOps Workflow
 
