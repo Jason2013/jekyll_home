@@ -6,7 +6,7 @@
 
 Providing technical creations and business solutions through my passions for software development, automation, reliability engineering, application security, and project management. Pursuing these passions by founding Wake Forest University's annual hackathon series, WakeHacks, and by creating automation-focused Python projects, featured on my GitHub profile. Enjoying my last year at WFU before joining NetApp as a Software Automation Engineer in June 2019!
 
-### Blog Posts
+#### Blog Posts
 
 Date | Title
 --|--
@@ -18,15 +18,18 @@ Date | Title
 *In Progress* | *Three Unusual Books for Computer Science Undergrads*
 *In Progress* | *Two Ideas for My DevOps Workflow*
 
-### Projects
+#### Projects
 
-Name | Description
---|--
-[PyDeacon](https://github.com/nickgerace/PyDeacon) | repository of various Python tools developed at Wake Forest University
-[CryptoRoadJack](https://github.com/nickgerace/PyDeacon/tree/master/cryptoroadjack) | automation tool for parsing websties for potential cryptojacking
-[AddressAutomation](https://github.com/nickgerace/PyDeacon/tree/master/address_automation) | automation tool for finding IP addresses and URLs in plaintext files
-[AmazonApacheLoadBalancer](https://github.com/nickgerace/AmazonApacheLoadBalancer) | load balancer for Apache web servers running on AWS EC2 instances
-[DeterminantDomination](https://github.com/nickgerace/PyDeacon/tree/master/determinant_domination) | Flask application that finds the determinant of any square matrix
-[PyDeaconConsole](https://github.com/nickgerace/PyDeacon) | a console providing a simulated GUI for operating headless Python tools
-[WakeHacks](https://acm.cs.wfu.edu) | annual hackathon series at Wake Forest University
-[LinuxSetups](https://github.com/nickgerace/LinuxSetups) | collection of setup scripts for Linux distros and macOS
+- [PyDeacon](https://github.com/nickgerace/PyDeacon) | repository of various Python tools developed at Wake Forest University
+- [CryptoRoadJack](https://github.com/nickgerace/PyDeacon/tree/master/cryptoroadjack) | automation tool for parsing websties for potential cryptojacking
+- [AddressAutomation](https://github.com/nickgerace/PyDeacon/tree/master/address_automation) | automation tool for finding IP addresses and URLs in plaintext files
+- [AmazonApacheLoadBalancer](https://github.com/nickgerace/AmazonApacheLoadBalancer) | load balancer for Apache web servers running on AWS EC2 instances
+- [DeterminantDomination](https://github.com/nickgerace/PyDeacon/tree/master/determinant_domination) | Flask application that finds the determinant of any square matrix
+- [PyDeaconConsole](https://github.com/nickgerace/PyDeacon) | a console providing a simulated GUI for operating headless Python tools
+- [WakeHacks](https://acm.cs.wfu.edu) | annual hackathon series at Wake Forest University
+- [LinuxSetups](https://github.com/nickgerace/LinuxSetups) | collection of setup scripts for Linux distros and macOS
+
+### Special Thanks
+
+- [Icons8](https://icons8.com) | provides free social media icons
+- [RealFaviconGenerator](https://realfavicongenerator.net) | provides favicon resources for all platforms
