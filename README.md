@@ -10,7 +10,7 @@ Providing technical creations and business solutions through my passions for sof
 - 12 Dec 2018 - [How I Became a NetApp Intern and Why You Should Too](https://medium.com/@nickgerace/how-i-became-a-netapp-intern-and-why-you-should-too-9639d0a8e265)
 - 12 Nov 2018 - [Annualizing WakeHacks](https://medium.com/@nickgerace/annualizing-wakehacks-b1fd8e8c99bf)
 - 05 Nov 2018 - [Launching BlueWarden](https://medium.com/@nickgerace/introducing-bluewarden-1-0-9c0809aee586)
-17 Oct 2018 | [The Status and Fun of BlueWarden](https://medium.com/@nickgerace/the-status-and-fun-of-bluewarden-ef7fbfcc09f1)
+- 17 Oct 2018 - [The Status and Fun of BlueWarden](https://medium.com/@nickgerace/the-status-and-fun-of-bluewarden-ef7fbfcc09f1)
 - *In Progress - Introducing PyDeacon*
 - *In Progress - Three Unusual Books for Computer Science Undergrads*
 - *In Progress - Two Ideas for My DevOps Workflow*
