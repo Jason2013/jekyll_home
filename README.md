@@ -1,8 +1,8 @@
 # Nick Gerace
 
-[<img src="icon_github.png" alt="github"/>](https://github.com/nickgerace)
-[<img src="icon_linkedin.png" alt="linkedin"/>](https://linkedin.com/in/nickgerace)
-[<img src="icon_medium.png" alt="medium"/>](https://medium.com/@nickgerace)
+[<img src="icon_github.png"/>](https://github.com/nickgerace)
+[<img src="icon_linkedin.png"/>](https://linkedin.com/in/nickgerace)
+[<img src="icon_medium.png"/>](https://medium.com/@nickgerace)
 
 Providing technical creations and business solutions through my passions for software development, automation, reliability engineering, application security, and project management. Pursuing these passions by founding Wake Forest University's annual hackathon series, WakeHacks, and by creating automation-focused Python projects, featured on my GitHub profile. Enjoying my last year at WFU before joining NetApp as a Software Automation Engineer in June 2019!
 
