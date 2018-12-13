@@ -25,6 +25,6 @@ Providing technical creations and business solutions through my passions for sof
 - [WakeHacks](https://acm.cs.wfu.edu) - annual hackathon series at Wake Forest University
 - [LinuxSetups](https://github.com/nickgerace/LinuxSetups) - collection of setup scripts for Linux distros and macOS
 
-### Acknowledgements
+#### Acknowledgements
 - [Icons8](https://icons8.com) - provides free social media icons
 - [RealFaviconGenerator](https://realfavicongenerator.net) - provides favicon resources for all platforms
