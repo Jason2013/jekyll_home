@@ -1,5 +1,4 @@
 # Nick Gerace
-##### Incoming Automation Engineer @ NetApp
 
 [<img src="icon_github.png"/>](https://github.com/nickgerace)
 [<img src="icon_linkedin.png"/>](https://linkedin.com/in/nickgerace)
