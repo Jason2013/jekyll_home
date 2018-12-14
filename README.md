@@ -19,6 +19,7 @@
 - *In Progress - Introducing PyDeacon*
 - *In Progress - Three Unusual Books for Computer Science Undergrads*
 - *In Progress - Two Ideas for My DevOps Workflow*
+- *In Progress - Why Present Day Microsoft is Badass*
 
 #### Projects
 - [PyDeacon](https://github.com/nickgerace/PyDeacon) - repository of various Python tools developed at Wake Forest University
