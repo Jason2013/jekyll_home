@@ -7,8 +7,8 @@
 Providing technical creations and business solutions through my passions for software engineering, automation, reliability engineering, application security, and project management. Pursuing these passions by founding Wake Forest University's annual hackathon series, WakeHacks, and by creating automation-focused Python projects. Enjoying my last year at WFU before joining NetApp as an Automation Engineer in June 2019!
 
 #### About Me
-- *Automation Engineer at [NetApp](https://www.netapp.com) (starting June 2019)*
-- *B.S. in Computer Science (2019) at [Wake Forest University](https://www.wfu.edu/)*
+- *Automation Engineer at [NetApp](https://www.netapp.com) - starting June 2019*
+- *B.S. in Computer Science at [Wake Forest University](https://www.wfu.edu/) - class of 2019*
 - *Founder and Volunteer Advisor at [WakeHacks](https://acm.cs.wfu.edu/)*
 
 #### Blog Posts
