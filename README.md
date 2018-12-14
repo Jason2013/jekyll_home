@@ -4,8 +4,9 @@
 [<img src="icon_linkedin.png"/>](https://linkedin.com/in/nickgerace)
 [<img src="icon_medium.png"/>](https://medium.com/@nickgerace)
 
+Providing technical creations and business solutions through my passions for software engineering, automation, reliability engineering, application security, and project management. Pursuing these passions by founding Wake Forest University's annual hackathon series, WakeHacks, and by creating automation-focused Python projects. Enjoying my last year at WFU before joining NetApp as an Automation Engineer in June 2019!
+
 #### About Me
-- Providing technical creations and business solutions through my passions for software engineering, automation, reliability engineering, application security, and project management. Pursuing these passions by founding Wake Forest University's annual hackathon series, WakeHacks, and by creating automation-focused Python projects. Enjoying my last year at WFU before joining NetApp as an Automation Engineer in June 2019!
 - *B.S. in Computer Science (2019) at [Wake Forest University](https://www.wfu.edu/)*
 - *Incoming Automation Engineer at [NetApp](https://www.netapp.com)*
 
