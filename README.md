@@ -7,11 +7,11 @@ Providing technical creations and business solutions through my passions for sof
 
 #### Blog Posts
 - 16 Dec 2018 - [How I Became a NetApp Intern and Why You Should Too](https://www.linkedin.com/pulse/how-i-became-netapp-intern-why-you-should-too-nick-gerace/)
-- *In Progress - Annualizing WakeHacks --> estimated release: Dec 2018*
-- *In Progress - Introducing PyDeacon --> estimated release: Jan 2019*
-- *In Progress - Three Unusual Books for Computer Science Undergrads --> estimated release: Jan 2019*
-- *In Progress - Why Present Day Microsoft is Badass --> estimated release: Feb 2019*
-- *In Progress - Two Ideas for My DevOps Workflow --> estimated release: Mar 2019*
+- *00 Dec 2018 - Annualizing WakeHacks*
+- *00 Jan 2019 - Introducing PyDeacon*
+- *00 Jan 2019 - Three Unusual Books for Computer Science Undergrads*
+- *00 Feb 2019 - Why Present Day Microsoft is Badass*
+- *00 Mar 2019 - Two Ideas for My DevOps Workflow*
 
 #### Projects
 - [PyDeacon](https://github.com/nickgerace/PyDeacon) - repository of various Python tools developed at Wake Forest University
