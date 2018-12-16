@@ -6,7 +6,7 @@
 Providing technical creations and business solutions through my passions for software engineering, automation, reliability engineering, application security, and project management. Pursuing these passions by founding Wake Forest University's annual hackathon series, WakeHacks, and by creating automation-focused Python projects. Enjoying my last year at WFU before joining NetApp as an Automation Engineer in June 2019!
 
 #### Blog Posts
-- 16 Dec 2018 - [How I Became a NetApp Intern and Why You Should Too](https://www.linkedin.com/pulse/how-i-became-netapp-intern-why-you-should-too-nick-gerace/)
+- 17 Dec 2018 - [How I Became a NetApp Intern and Why You Should Too](https://www.linkedin.com/pulse/how-i-became-netapp-intern-why-you-should-too-nick-gerace/)
 - *In Progress - Annualizing WakeHacks*
 - *In Progress - Introducing PyDeacon*
 - *In Progress - Three Unusual Books for Computer Science Undergrads*
