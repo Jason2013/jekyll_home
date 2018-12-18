@@ -25,8 +25,9 @@ Providing technical creations and business solutions through my passions for sof
 
 #### About Me
 - Automation Engineer at [NetApp](https://www.netapp.com), starting in June 2019
-- B.S. in Computer Science at [Wake Forest University](https://www.wfu.edu/), class of 2019
 - Founder and Volunteer Advisor at [WakeHacks](https://acm.cs.wfu.edu/)
+- B.S. in Computer Science at [Wake Forest University](https://www.wfu.edu/), class of 2019
+- Current Dev Environment: [Xubuntu](https://xubuntu.org/) and [Ultimate VIM](https://github.com/amix/vimrc)
 
 #### Acknowledgements
 - [Icons8](https://icons8.com) - provides free social media icons
