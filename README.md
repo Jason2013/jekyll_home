@@ -27,7 +27,6 @@ Providing technical creations and business solutions through my passions for sof
 - Automation Engineer at [NetApp](https://www.netapp.com), starting in June 2019
 - Founder and Volunteer Advisor at [WakeHacks](https://acm.cs.wfu.edu/)
 - B.S. in Computer Science at [Wake Forest University](https://www.wfu.edu/), class of 2019
-- Current Setupt: [Ubuntu](https://www.ubuntu.com/), [Ultimate VIM](https://github.com/amix/vimrc), and [Vimix Theme](https://github.com/vinceliuice/vimix-gtk-themes)
 
 #### Acknowledgements
 - [Icons8](https://icons8.com) - provides free social media icons
