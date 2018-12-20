@@ -1,7 +1,5 @@
 # Nick Gerace
 
-[github.com/**nickgerace**](https://github.com/nickgerace) | [linkedin.com/in/**nickgerace**](https://linkedin.com/in/nickgerace)
-
 [<img src="icon_github.png" width="50"/>](https://github.com/nickgerace)
 [<img src="icon_linkedin.png" width="50"/>](https://linkedin.com/in/nickgerace)
 
