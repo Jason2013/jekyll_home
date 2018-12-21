@@ -8,20 +8,19 @@ Providing technical creations and business solutions through my passions for sof
 #### Blog Posts
 - 17 Dec 2018 - [How I Became a NetApp Intern and Why You Should Too](https://www.linkedin.com/pulse/how-i-became-netapp-intern-why-you-should-too-nick-gerace-1e/)
 - *In Progress - Annualizing WakeHacks*
-- *In Progress - Introducing PyDeacon*
+- *In Progress - Why I Switched to Monorepo*
 - *In Progress - Three Unusual Books for Computer Science Undergrads*
 - *In Progress - Why Present Day Microsoft is Badass*
 - *In Progress - Two Ideas for My DevOps Workflow*
 
 #### Projects
-- [PyDeacon](https://github.com/nickgerace/PyDeacon) - repository of various Python tools developed at Wake Forest University
-- [CryptoRoadJack](https://github.com/nickgerace/PyDeacon/tree/master/cryptoroadjack) - automation tool for parsing websties for potential cryptojacking
-- [AddressAutomation](https://github.com/nickgerace/PyDeacon/tree/master/address_automation) - automation tool for finding IP addresses and URLs in plaintext files
-- [AmazonApacheLoadBalancer](https://github.com/nickgerace/AmazonApacheLoadBalancer) - load balancer for Apache web servers running on AWS EC2 instances
-- [DeterminantDomination](https://github.com/nickgerace/PyDeacon/tree/master/determinant_domination) - Flask application that finds the determinant of any square matrix
-- [PyDeaconConsole](https://github.com/nickgerace/PyDeacon) - a console providing a simulated GUI for operating headless Python tools
+- [CryptoRoadJack](https://github.com/nickgerace/nickgerace/tree/master/cryptoroadjack) - automation tool for parsing websties for potential cryptojacking
+- [AddressAutomation](https://github.com/nickgerace/nickgerace/tree/master/address_automation) - automation tool for finding IP addresses and URLs in plaintext files
+- [EC2LoadBalancer](https://github.com/nickgerace/nickgerace/tree/master/ec2loadbalancer) - load balancer for Apache web servers running on AWS EC2 instances
+- [DeterminantDomination](https://github.com/nickgerace/nickgerace/tree/master/determinant_domination) - Flask application that finds the determinant of any square matrix
+- [PyDeacon](https://github.com/nickgerace/nickgerace/tree/master/pydeacon) - a console providing a simulated GUI for operating headless Python tools
 - [WakeHacks](https://acm.cs.wfu.edu) - annual hackathon series at Wake Forest University
-- [LinuxSetups](https://github.com/nickgerace/LinuxSetups) - collection of setup scripts for Linux distros and macOS
+- [LinuxSetups](https://github.com/nickgerace/nickgerace/tree/master/linuxsetups) - collection of setup scripts for Linux distros and macOS
 
 #### About Me
 - Automation Engineer at [NetApp](https://www.netapp.com), starting in June 2019
