@@ -9,6 +9,7 @@ Providing technical creations and business solutions through my passions for sof
 - 17 Dec 2018 - [How I Became a NetApp Intern and Why You Should Too](https://www.linkedin.com/pulse/how-i-became-netapp-intern-why-you-should-too-nick-gerace-1e/)
 - *In Progress - Annualizing WakeHacks*
 - *In Progress - Why I Switched to a Monorepo*
+- *In Progress - My WFU Heroes*
 - *In Progress - Three Unusual Books for Computer Science Undergrads*
 - *In Progress - Why Present Day Microsoft is Badass*
 
