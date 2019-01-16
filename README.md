@@ -8,10 +8,6 @@ Providing technical creations and business solutions through my passions for sof
 #### Blog Posts
 - 16 Jan 2019 - [Annualizing WakeHacks](https://www.linkedin.com/pulse/annualizing-wakehacks-nick-gerace/)
 - 17 Dec 2018 - [How I Became a NetApp Intern and Why You Should Too](https://www.linkedin.com/pulse/how-i-became-netapp-intern-why-you-should-too-nick-gerace-1e/)
-- *In Progress - Why I Switched to a Monorepo*
-- *In Progress - My WFU Heroes*
-- *In Progress - Three Unusual Books for Computer Science Undergrads*
-- *In Progress - Why Present Day Microsoft is Badass*
 
 #### Projects
 - [CryptoRoadJack](https://github.com/nickgerace/nickgerace/tree/master/cryptoroadjack) - automation tool for parsing websties for potential cryptojacking
