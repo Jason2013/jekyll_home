@@ -27,3 +27,4 @@ Providing technical creations and business solutions through my passions for sof
 #### Acknowledgements
 - [Icons8](https://icons8.com) - provides free social media icons
 - [RealFaviconGenerator](https://realfavicongenerator.net) - provides favicon resources for all platforms
+- [GitHub Pages](https://pages.github.com/) - hosts this website
