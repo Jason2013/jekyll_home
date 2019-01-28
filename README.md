@@ -9,21 +9,11 @@ Providing technical creations and business solutions through my passions for sof
 - 16 Jan 2019 - [Annualizing WakeHacks](https://www.linkedin.com/pulse/annualizing-wakehacks-nick-gerace/)
 - 17 Dec 2018 - [How I Became a NetApp Intern and Why You Should Too](https://www.linkedin.com/pulse/how-i-became-netapp-intern-why-you-should-too-nick-gerace-1e/)
 
-#### Projects
-- [CryptoRoadJack](https://github.com/nickgerace/nickgerace/tree/master/cryptoroadjack) - automation tool for parsing websties for potential cryptojacking
-- [AddressFinder](https://github.com/nickgerace/nickgerace/tree/master/addressfinder) - automation tool for finding IP addresses and URLs in plaintext files
-- [EC2LoadBalancer](https://github.com/nickgerace/nickgerace/tree/master/ec2loadbalancer) - load balancer for Apache web servers running on AWS EC2 instances
-- [DeterminantDomination](https://github.com/nickgerace/nickgerace/tree/master/determinantdomination) - Flask application that finds the determinant of any square matrix
-- [HallMonitor](https://github.com/nickgerace/nickgerace/tree/master/hallmonitor) - app that monitors HTTP and HTTPS traffic continuously in a GUI-like CLI environment
-- [PyDeacon](https://github.com/nickgerace/nickgerace/tree/master/pydeacon) - a console providing a simulated GUI for operating headless Python tools
-- [WakeHacks](https://acm.cs.wfu.edu) - annual hackathon series at Wake Forest University
-- [LinuxSetups](https://github.com/nickgerace/nickgerace/tree/master/linuxsetups) - collection of setup scripts for Linux distros and macOS
-
 #### About Me
 - Software Engineer at [NetApp](https://www.netapp.com), starting in June 2019
 - Founder and Volunteer Advisor at [WakeHacks](https://acm.cs.wfu.edu/)
 - B.S. in Computer Science at [Wake Forest University](https://www.wfu.edu/), class of 2019
-- You can find all of my public projects, tools and code in a single repository, located [here](https://github.com/nickgerace/nickgerace)
+- You can find all of my public projects, tools and code in a single repository, located [here](https://github.com/nickgerace/nickgerace)!
 
 #### Acknowledgements
 - [Icons8](https://icons8.com) - provides free social media icons
